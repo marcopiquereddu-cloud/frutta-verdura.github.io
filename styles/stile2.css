@@ -1,0 +1,281 @@
+* {
+width: 100%;
+height: auto;
+margin: 0;
+padding: 0;
+font-family: 'Josefin Sans', sans-serif;
+}
+a {
+color: rgba(0, 0, 0, 0.9);
+text-decoration: underline;
+}
+a:hover {
+text-decoration: none;
+color: brown;
+font-weight: bold;
+}
+strong {
+font-weight: bold;
+}
+h1 {
+font-size: 2em;
+margin: 1em 0;
+color: rgba(0, 0, 0, 1);
+text-align: center;
+line-height: 1em;
+}
+h2 {
+font-size: 1.5em;
+margin-bottom: 0.5em;
+color: rgba(0, 0, 0, 0.9);
+}
+p {
+margin-bottom: 1.5em;
+color: rgba(0, 0, 0, 0.9);
+line-height: 1.4em;
+letter-spacing:0.4px;
+}
+.text {
+width: 90%;
+margin: 0 auto 1em;
+}
+.white {
+color: rgba(255, 255, 255, 0.9);
+}
+html {
+font-size: 100%;
+}
+body {
+font-size: 18px;
+color: rgba(0, 0, 0, 0.9);
+font-family: 'Josefin Sans', sans-serif;
+background-image: url('../images/sfondo.png');
+background-repeat: repeat;
+}
+.indication {
+margin: 1em;
+text-transform: uppercase;
+font-weight: bold;
+}
+#header {
+position: relative;
+top: 1em;
+z-index: 1;
+}
+#menu {
+width: 50%;
+min-width: 50%;
+margin: 0 auto;
+padding: 0.9em;
+text-transform: uppercase;
+text-align: center;
+background-image: url(../images/menu-bar.png);
+border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+}
+#menu:hover {
+background-color: rgba(75, 179, 0, 0.8);
+}
+#menu li {
+display: block;
+width: auto;
+margin: 0;
+text-align: center;
+}
+#menu li a {
+text-decoration: none;
+color: rgba(255, 255, 255, 0.9);
+}
+#menu li a:hover {
+font-weight: bold;
+}
+#content_intro {
+width: 90%;
+min-width: 90%;
+margin: 2em auto 0 auto;
+text-align: center;
+font-family: 'Josefin Sans', sans-serif;
+}
+#content_intro p {
+margin-bottom: 1em;
+font-size: 1.5em;
+font-weight: 300;
+line-height: 1em;
+}
+#content_intro h3 {
+font-size: 3em;
+font-weight: 400;
+line-height: 1em;
+}
+#sepImage {
+width: 90%;
+min-width: 90%;
+margin: 0 auto;
+}
+#sepImage img {
+height: auto;
+border: 10px solid rgba(255, 255, 255, 0.5);
+border-top-left-radius: 100%;
+border-top-right-radius: 5em;
+border-bottom-left-radius: 5em;
+border-bottom-right-radius: 100%;
+}
+#content {
+width: 90%;
+min-width: 90%;
+margin: 2em auto 3em;
+line-height: 1em;
+}
+#buttons {
+width: 90%;
+min-width: 90%;
+margin: 0 auto;
+}
+#colors li {
+width: auto;
+margin: 0.5%;
+display: block;
+}
+.color {
+border-radius: 2em;
+padding: 1em;
+font-size: 0.8em;
+text-align: center;
+letter-spacing: 0.1em;
+cursor: pointer;
+}
+#result {
+margin: 2em;
+}
+#textResult {
+margin: 0.5em;
+font-size: 2em;
+}
+#alimentsList {
+text-align: center;
+}
+.aliment {
+width: 95%;
+margin: 0;
+text-align: left;
+}
+.nameAliment {
+display: inline-block;
+font-size: 1em;
+width: 50%;
+margin: 0.5em auto;
+padding: 0.5em;
+border: 1px solid rgba(121, 188, 216, 1.0);
+border-radius: 1em;
+color: rgba(0, 0, 0, 0.8);
+cursor: pointer;
+background-color: rgba(255, 255, 255, 0.5);
+}
+.imgAliment, .nameAliment {
+text-align: center;
+}
+.imgAliment {
+display: inline-block;
+width: 40%;
+margin: 0 auto;
+border-radius: 50%;
+border: 5px solid rgba(255, 255, 255, 0.5);
+}
+#alimentDescription {
+position: fixed;
+width: 100%;
+min-width: 300px;
+left: 5%;
+border-top-right-radius: 1em;
+border-top-left-radius: 1em;
+left: 0;
+bottom: 0;
+max-height: 60%;
+background-color: rgba(255, 255, 255, 0.9);
+}
+#alimentDescription h1 {
+cursor: pointer;
+width: 50%;
+text-transform: uppercase;
+text-align: left;
+}
+#alimentDescription h1:hover {
+color: rgba(255, 0, 0, 0.5);
+}
+#alimentDescription h1, #alimentDescription p, #alimentDescription ul {
+margin: 0.5em;
+color: rgba(0, 0, 0, 0.5);
+}
+#allMonths {
+width: auto;
+margin: 0 auto;/*repeat*/
+font-weight: bold;
+}
+#allMonths li {
+display: inline-block;
+width: auto;
+padding: 0.5em;
+text-transform: uppercase;
+font-size: 0.8em;
+color: rgba(0, 0, 0, 0.9);
+text-align: center;
+}
+#close {
+position: absolute;
+top: 0.5em;
+right: 0.5em;
+margin: 0.5em;
+cursor: pointer;
+width: auto;
+text-align: center;
+text-transform: uppercase;
+}
+#selectionBox {
+width: auto;
+text-align: center;
+margin: 0 0 3em;
+}
+#selectionMonth {
+width: 70%;
+margin: 0 auto;
+font-size: 1em;
+padding: 1em;
+border: 2px solid rgba(255, 255, 255, 0.5);
+border-bottom: 0;
+border-radius: 2em;
+color: black;
+background-color: rgba(255, 255, 255, 0.3);
+}
+#selectionMonth option {
+margin: 0.5em;
+padding-left: 1em;
+letter-spacing: 0.1em;
+}
+#selectionMonth:first-child {
+letter-spacing: 0.1em;
+}
+#selectionColor {
+width: 68.5%;
+border: 2px solid rgba(255, 255, 255, 0.5);
+border-top: 0;
+border-radius: 2em;
+padding: 0.5em;
+margin: 0 auto;
+font-size: 1em;
+color: black;
+text-align: left;
+background-color: rgba(255, 255, 255, 0.3);
+}
+#selectionColor li {
+display: block;
+width: auto;
+margin: 1em;
+}
+.radioButton {
+width: auto;
+margin-right: 1em;
+}
+#validators p {
+width: auto;
+display: inline-block;
+margin-right: 1em;
+}

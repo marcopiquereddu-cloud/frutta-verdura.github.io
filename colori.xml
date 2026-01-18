@@ -1,0 +1,561 @@
+<?xml version="1.0"?>
+<colors>
+<group name="bianco">
+    <description>
+
+Tra le vitamine presenti, la più rilevante è la
+&lt;a href=&quot;http://www.my-personaltrainer.it/Vitamina_C.htm&quot;&gt; vitamina C &lt;/a&gt;
+&lt;br /&gt;
+
+Tra i sali minerali presenti, il più rilevante è il
+&lt;a href=&quot;http://www.my-personaltrainer.it/sali-minerali/potassio.html&quot;&gt; potassio &lt;/a&gt;
+&lt;br /&gt;
+
+Sono ricchi di fibre
+&lt;br /&gt;
+
+Tra i phytochemicals ci sono la
+&lt;a href=&quot;http://www.my-personaltrainer.it/integratori/quercetina.html&quot;&gt; quercitina &lt;/a&gt;
+e gli
+&lt;a href=&quot;http://www.my-personaltrainer.it/integratori/glucosinolati-isotiocianati.html&quot;&gt; isocianati &lt;/a&gt;
+&lt;br /&gt;
+
+Alcuni alimenti (mele, cipolle) contengono
+&lt;a href=&quot;http://www.my-personaltrainer.it/integratori/flavonoidi.html&quot;&gt; flavonoidi &lt;/a&gt;
+&lt;br /&gt;
+
+Alcuni alimenti (aglio, porri, cipolle) contengono l'allilsfolfuro che fluidifica il sangue, aiuta a prevenire malattie coronariche e diverse forme tumorali.
+&lt;br /&gt;
+
+I funghi contengono
+&lt;a href=&quot;http://www.my-personaltrainer.it/sali-minerali/selenio.html&quot;&gt; selenio &lt;/a&gt;
+
+    </description>
+    <aliments>
+        <aliment name="mele">
+            <properties><property>http://www.my-personaltrainer.it/nutrizione/mela-mele.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="pere">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/pere.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="castagne">
+            <properties><property>http://www.my-personaltrainer.it/nutrizione/castagne.html</property></properties>
+            <period>
+                <month>ottobre</month>
+                <month>novembre</month>
+            </period>
+        </aliment>
+        <aliment name="cavolfiori">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/cavolfiore.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="finocchi">
+            <properties><property>http://www.my-personaltrainer.it/erbe-medicinali/finocchio.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="porri">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/porri.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="sedani">
+            <properties><property>http://www.my-personaltrainer.it/benessere/sedano.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+    </aliments>
+</group>
+<group name="viola-blu">
+    <description>
+
+Tra le vitamine presenti, la più rilevante è la
+&lt;a href=&quot;http://www.my-personaltrainer.it/Vitamina_C.htm&quot;&gt; vitamina C &lt;/a&gt;
+&lt;br /&gt;
+
+Tra i sali minerali presenti, il più rilevante è il
+&lt;a href=&quot;http://www.my-personaltrainer.it/sali-minerali/potassio.html&quot;&gt; potassio &lt;/a&gt;
+&lt;br /&gt;
+
+Sono ricchi di fibre
+&lt;br /&gt;
+
+Tra i phytochemicals ci sono le
+&lt;a href=&quot;http://www.my-personaltrainer.it/nutrizione/antociani.html&quot;&gt; antocianine &lt;/a&gt;
+e i
+&lt;a href=&quot;http://www.my-personaltrainer.it/nutrizione/carotenoidi.html&quot;&gt; carotenoidi &lt;/a&gt;
+&lt;br /&gt;
+
+Alcuni alimenti (melanzane) sono ricchi di
+&lt;a href=&quot;http://www.my-personaltrainer.it/sali-minerali/magnesio.html&quot;&gt; magnesio &lt;/a&gt;
+&lt;br /&gt;
+
+Alcuni alimenti (ribes, radicchio) sono ricchi di
+&lt;a href=&quot;http://www.my-personaltrainer.it/Vitamina_C.htm&quot;&gt; vitamina C &lt;/a&gt;
+&lt;br /&gt;
+
+    </description>
+    <aliments>
+        <aliment name="fichi">
+            <properties><property>http://www.my-personaltrainer.it/benessere/fico.html</property></properties>
+            <period>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+            </period>
+        </aliment>
+        <aliment name="susine">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/susine.html</property></properties>
+            <period>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+            </period>
+        </aliment>
+        <aliment name="melanzane">
+            <properties><property>http://www.my-personaltrainer.it/benessere/melanzane.html</property></properties>
+            <period>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+            </period>
+        </aliment>
+        <aliment name="radicchi">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/radicchio.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+    </aliments>
+</group>
+<group name="giallo-arancio">
+    <description>
+
+Tra i sali minerali presenti, il più rilevante è il
+&lt;a href=&quot;http://www.my-personaltrainer.it/sali-minerali/potassio.html&quot;&gt; potassio &lt;/a&gt;
+&lt;br /&gt;
+
+Tra i phytochemicals c'è il
+&lt;a href=&quot;http://www.my-personaltrainer.it/benessere/beta-carotene.html&quot;&gt; beta-carotene &lt;/a&gt;(precursore della vitamina A)
+&lt;br /&gt;
+
+Sono ricchi di
+&lt;a href=&quot;http://www.my-personaltrainer.it/integratori/flavonoidi.html&quot;&gt; flavonoidi &lt;/a&gt;
+&lt;br /&gt;
+
+Alcuni alimenti (arance, limoni, peperoni) sono ricchi di
+&lt;a href=&quot;http://www.my-personaltrainer.it/Vitamina_C.htm&quot;&gt; vitamina C &lt;/a&gt;
+&lt;br /&gt;
+
+    </description>
+    <aliments>
+        <aliment name="albicocche">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/albicocche.html</property></properties>
+            <period>
+                <month>giugno</month>
+                <month>luglio</month>
+            </period>
+        </aliment>
+        <aliment name="arance">
+            <properties><property>http://www.my-personaltrainer.it/benessere/arancia.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="cachi">
+            <properties><property>http://www.my-personaltrainer.it/benessere/cachi-proprieta.html</property></properties>
+            <period>
+                <month>ottobre</month>
+                <month>novembre</month>
+            </period>
+        </aliment>
+        <aliment name="mandarini">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/mandarini.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="meloni">
+            <properties><property>http://www.my-personaltrainer.it/benessere/melone.html</property></properties>
+            <period>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+            </period>
+        </aliment>
+        <aliment name="pesche">
+            <properties><property>http://community.my-personaltrainer.it/Alimenti/Frutta_succhi/Pesche</property></properties>
+            <period>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+            </period>
+        </aliment>
+        <aliment name="carote">
+            <properties><property>http://www.my-personaltrainer.it/benessere/carote.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="peperoni">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/peperoni.html</property></properties>
+            <period>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+            </period>
+        </aliment>
+        <aliment name="zucche">
+            <properties><property>http://www.my-personaltrainer.it/benessere/zucca-proprieta.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+    </aliments>
+</group>
+<group name="rosso">
+    <description>
+
+Tra i phytochemicals ci sono le
+&lt;a href=&quot;http://www.my-personaltrainer.it/nutrizione/antociani.html&quot;&gt; antocianine &lt;/a&gt;
+e i
+&lt;a href=&quot;http://www.my-personaltrainer.it/nutrizione/carotenoidi.html&quot;&gt; carotenoidi &lt;/a&gt;
+(in particolare il &lt;a href=&quot;http://www.my-personaltrainer.it/licopene.html&quot;&gt; licopene &lt;/a&gt;)
+&lt;br /&gt;
+Alcuni alimenti (arance rosse, fragole) sono ricchi di
+&lt;a href=&quot;http://www.my-personaltrainer.it/Vitamina_C.htm&quot;&gt; vitamina C &lt;/a&gt;
+
+    </description>
+    <aliments>
+        <aliment name="angurie">
+            <properties><property>http://www.my-personaltrainer.it/benessere/anguria.html</property></properties>
+            <period>
+                <month>luglio</month>
+                <month>agosto</month>
+            </period>
+        </aliment>
+        <aliment name="ciliege">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/ciliegie.html</property></properties>
+            <period>
+                <month>maggio</month>
+                <month>giugno</month>
+                <month>luglio</month>
+            </period>
+        </aliment>
+        <aliment name="fragole">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/fragole.html</property></properties>
+            <period>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+            </period>
+        </aliment>
+        <aliment name="pomodori">
+            <properties><property>http://www.my-personaltrainer.it/benessere/pomodori-proprieta.html</property></properties>
+            <period>
+                <month>maggio</month>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+            </period>
+        </aliment>
+        <aliment name="ravanelli">
+            <properties><property>http://www.my-personaltrainer.it/benessere/ravanello.html</property></properties>
+            <period>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+            </period>
+        </aliment>
+    </aliments>
+</group>
+<group name="verde">
+    <description>
+Tra i sali minerali presenti, il più rilevante è il
+&lt;a href=&quot;http://www.my-personaltrainer.it/sali-minerali/magnesio.html&quot;&gt; magnesio &lt;/a&gt;
+&lt;br /&gt;
+
+Tra i phytochemicals ci sono la
+&lt;a href=&quot;http://www.my-personaltrainer.it/integratori/clorofilla.html&quot;&gt; clorofilla &lt;/a&gt;
+e i
+&lt;a href=&quot;http://www.my-personaltrainer.it/nutrizione/carotenoidi.html&quot;&gt; carotenoidi &lt;/a&gt;
+&lt;br /&gt;
+
+Alcuni alimenti (broccoli, kiwi, spinaci, prezzemolo) contengono
+&lt;a href=&quot;http://www.my-personaltrainer.it/Vitamina_C.htm&quot;&gt; vitamina C &lt;/a&gt;
+&lt;br /&gt; 
+
+Sono la migliore fonte di
+&lt;a href=&quot;http://www.my-personaltrainer.it/nutrizione/acido-folico.html&quot;&gt; acido folico e folati &lt;/a&gt;
+    </description>
+    <aliments>
+        <aliment name="kiwi">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/kiwi.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="uva">
+            <properties><property>http://www.my-personaltrainer.it/benessere/uva-proprieta.html</property></properties>
+            <period>
+                <month>agosto</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+            </period>
+        </aliment>
+        <aliment name="asparagi">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/asparagi.html</property></properties>
+            <period>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>giugno</month>
+            </period>
+        </aliment>
+        <aliment name="bietole">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/bietole.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="broccoli">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/broccoli.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="carciofi">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/carciofi.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>giugno</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="cetrioli">
+            <properties><property>http://www.my-personaltrainer.it/nutrizione/cetrioli.html</property></properties>
+            <period>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+            </period>
+        </aliment>
+        <aliment name="cicorie">
+            <properties><property>http://www.my-personaltrainer.it/alimentazione/cicoria.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="cime di rapa">
+            <properties><property>http://www.my-personaltrainer.it/benessere/rapa.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="insalate">
+            <properties><property>http://community.my-personaltrainer.it/2012/cerca/alimenti.php?alimento=lattuga</property></properties>
+            <period>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="rucola">
+            <properties><property>http://www.my-personaltrainer.it/nutrizione/rucola.html</property></properties>
+            <period>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+            </period>
+        </aliment>
+        <aliment name="spinaci">
+            <properties><property>http://www.my-personaltrainer.it/nutrizione/spinaci.html</property></properties>
+            <period>
+                <month>gennaio</month>
+                <month>febbraio</month>
+                <month>marzo</month>
+                <month>aprile</month>
+                <month>maggio</month>
+                <month>settembre</month>
+                <month>ottobre</month>
+                <month>novembre</month>
+                <month>dicembre</month>
+            </period>
+        </aliment>
+        <aliment name="zucchine">
+            <properties><property>http://www.my-personaltrainer.it/nutrizione/zucchine.html</property></properties>
+            <period>
+                <month>giugno</month>
+                <month>luglio</month>
+                <month>agosto</month>
+                <month>settembre</month>
+            </period>
+        </aliment>
+    </aliments>
+</group>
+</colors>
